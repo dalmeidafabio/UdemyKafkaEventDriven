@@ -1,0 +1,6 @@
+D:\DEV\Java\UdemyKafkaEventDriven\EmailNotificationKafkaConsumer\src\main\java\org\fdalmeida\emailNotification\ws\KafkaConsumerProperties.java
+D:\DEV\Java\UdemyKafkaEventDriven\EmailNotificationKafkaConsumer\src\main\java\org\fdalmeida\emailNotification\ws\error\NotRetryableException.java
+D:\DEV\Java\UdemyKafkaEventDriven\EmailNotificationKafkaConsumer\src\main\java\org\fdalmeida\emailNotification\EmailNotificationKafkaConsumerApplication.java
+D:\DEV\Java\UdemyKafkaEventDriven\EmailNotificationKafkaConsumer\src\main\java\org\fdalmeida\emailNotification\ws\error\RetryableException.java
+D:\DEV\Java\UdemyKafkaEventDriven\EmailNotificationKafkaConsumer\src\main\java\org\fdalmeida\emailNotification\ws\handler\ProductCreatedEventHandler.java
+D:\DEV\Java\UdemyKafkaEventDriven\EmailNotificationKafkaConsumer\src\main\java\org\fdalmeida\emailNotification\ws\KafkaConsumerConfig.java
